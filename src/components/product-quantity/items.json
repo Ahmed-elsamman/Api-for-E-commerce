@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_product_quantity_items",
+  "info": {
+    "displayName": "items"
+  },
+  "options": {},
+  "attributes": {
+    "total": {
+      "type": "biginteger"
+    }
+  },
+  "config": {}
+}
